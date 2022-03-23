@@ -62,5 +62,5 @@ body {
     display: flex;
     margin-top: 5px;
     text-align: center;
-    font-family: 'Indie Flower';
+    font-family: 'Indie Flower', cursive !important;
 }
