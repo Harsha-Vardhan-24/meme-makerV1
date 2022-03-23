@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from "react";
 
-export default Meme = () => {
+const Meme = () => {
     // Env variables.
     const username = "djsnake"
     const password = "djsnake@123"
@@ -98,3 +98,5 @@ export default Meme = () => {
     // <input class="form-control" type="text" placeholder="Default input"> <button className="btn btn-secondary">Skip this meme</button>
     )
 }
+
+export default Meme;

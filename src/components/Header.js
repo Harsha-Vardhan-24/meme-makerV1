@@ -2,7 +2,7 @@ import React from "react";
 import headerImage from "../images/meme.png"
 
 
-export default Header = () => {
+const Header = () => {
     return(
         <nav className="navbar navbar-dark bg-dark">
             <div className="container-fluid">
@@ -14,3 +14,5 @@ export default Header = () => {
         </nav>
     )
 }
+
+export default Header;
