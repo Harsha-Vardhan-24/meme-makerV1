@@ -4,7 +4,7 @@ import Main from "./components/Meme"
 import Footer from "./components/Footer"
 import "bootstrap/dist/css/bootstrap.min.css"
 
-export default () => {
+export default App = () => {
     return (
         <div>
             <Header />

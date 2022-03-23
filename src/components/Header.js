@@ -2,7 +2,7 @@ import React from "react";
 import headerImage from "../images/meme.png"
 
 
-export default () => {
+export default Header = () => {
     return(
         <nav className="navbar navbar-dark bg-dark">
             <div className="container-fluid">

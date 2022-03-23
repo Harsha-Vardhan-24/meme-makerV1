@@ -1,10 +1,9 @@
 import React, {useState, useEffect} from "react";
-// import ready from "../images/ready.webp"
 
-export default () => {
+export default Meme = () => {
     // Env variables.
-    const username = ""
-    const password = ""
+    const username = "djsnake"
+    const password = "djsnake@123"
 
     // We are starting the state wiith the empty content
     const [memeData, setMemeData] = useState({
