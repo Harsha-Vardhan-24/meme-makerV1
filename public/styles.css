@@ -35,6 +35,7 @@ body {
     width: 90%;
     display: grid;
     margin: auto;
+    margin-bottom: 20px;
 }
 
 .skip-button {
