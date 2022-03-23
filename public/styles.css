@@ -4,7 +4,7 @@ body {
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@300;500;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
 
 .navbar {
     background: linear-gradient(to right, #672280, #A626D3 );
@@ -62,5 +62,5 @@ body {
     display: flex;
     margin-top: 5px;
     text-align: center;
-    font-family: 'Indie Flower', cursive !important;
+    font-family: 'Patrick Hand', cursive !important;
 }
