@@ -1,18 +1,18 @@
 body {
     margin: 0px;
-    font-family: 'Karla', sans-serif !important;
+    font-family: "Karla", sans-serif !important;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300;500;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@300;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap");
 
 .navbar {
-    background: linear-gradient(to right, #672280, #A626D3 );
+    background: linear-gradient(to right, #672280, #a626d3);
     font-weight: 700;
 }
 
 .meme-button {
-    background: linear-gradient(to right, #672280, #A626D3 );
+    background: linear-gradient(to right, #672280, #a626d3);
     color: white !important;
     justify-content: space-between;
     margin: 0px 10px;
@@ -39,7 +39,7 @@ body {
 }
 
 .skip-button {
-    background: linear-gradient(to right, #2c0736, #2693d3 );
+    background: linear-gradient(to right, #2c0736, #2693d3);
     color: white !important;
     justify-content: space-between;
     margin: 0px 10px;
@@ -62,5 +62,5 @@ body {
     display: flex;
     margin-top: 5px;
     text-align: center;
-    font-family: 'Patrick Hand', cursive !important;
+    font-family: "Patrick Hand", cursive !important;
 }
